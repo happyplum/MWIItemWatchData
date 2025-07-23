@@ -1,0 +1,34 @@
+{
+  "锻造": [
+    "/items/cheese",
+    "/items/verdant_cheese",
+    "/items/azure_cheese",
+    "/items/burble_cheese",
+    "/items/crimson_cheese",
+    "/items/rainbow_cheese",
+    "/items/holy_cheese"
+  ],
+  "制作": [
+    "/items/lumber",
+    "/items/birch_lumber",
+    "/items/cedar_lumber",
+    "/items/purpleheart_lumber",
+    "/items/ginkgo_lumber",
+    "/items/redwood_lumber",
+    "/items/arcane_lumber"
+  ],
+  "裁缝1": [
+    "/items/rough_leather",
+    "/items/reptile_leather",
+    "/items/gobo_leather",
+    "/items/beast_leather",
+    "/items/umbral_leather"
+  ],
+  "裁缝2": [
+    "/items/cotton_fabric",
+    "/items/linen_fabric",
+    "/items/bamboo_fabric",
+    "/items/silk_fabric",
+    "/items/radiant_fabric"
+  ]
+}
